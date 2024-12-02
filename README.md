@@ -1,6 +1,6 @@
-# InsightfulPeer-CoT: Not All Peer Reviews Are Significant
+# Not all peer reviews are significant: A Dataset for Good (Exhaustive) vs. Bad (Trivial) Scientific Peer Reviews Leveraging Chain-of-Thought Reasoning
 
-This repository contains code, datasets, visualizations, and analysis for the research project, *InsightfulPeer-CoT: Not All Peer Reviews Are Significant*. The study investigates the use of large language models (LLMs) to evaluate peer review quality using Chain of Thought (CoT) reasoning. We categorize reviews as "good" (exhaustive) or "bad" (trivial) based on their depth in covering sections and aspects of the reviewed paper, aiming to automate the evaluation of peer review quality.
+This repository contains code, datasets, visualizations, and analysis for the research project, *Not all peer reviews are significant: A Dataset for Good (Exhaustive) vs. Bad (Trivial) Scientific Peer Reviews Leveraging Chain-of-Thought Reasoning*. The study investigates the use of large language models (LLMs) to evaluate peer review quality using Chain of Thought (CoT) reasoning. We categorize reviews as "good" (exhaustive) or "bad" (trivial) based on their depth in covering sections and aspects of the reviewed paper, aiming to automate the evaluation of peer review quality.
 
 ## Folder Structure
 
