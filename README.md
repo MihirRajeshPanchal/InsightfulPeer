@@ -91,8 +91,8 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ## Contact
 
 For inquiries, please reach out here:
-- dept.csprabhat@gmail.com
-- mihirpanchal5400@gmail.com
-- viraldalal04@gmail.com
-- mayank265@iitp.ac.in
-- asif@iitp.ac.in
+- **Prabhat Kumar Bharti**: [dept.csprabhat@gmail.com](mailto:dept.csprabhat@gmail.com)
+- **Mihir Panchal**: [mihirpanchal5400@gmail.com](mailto:mihirpanchal5400@gmail.com)
+- **Viral Dalal**: [viraldalal04@gmail.com](mailto:viraldalal04@gmail.com)
+- **Mayank Agarwal**: [mayank265@iitp.ac.in](mailto:mayank265@iitp.ac.in)
+- **Asif Ekbal**: [asif@iitp.ac.in](mailto:asif@iitp.ac.in)
