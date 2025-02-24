@@ -2,6 +2,14 @@
 
 This repository contains code, datasets, visualizations, and analysis for the research project, *Not all peer reviews are significant: A Dataset for Good (Exhaustive) vs. Bad (Trivial) Scientific Peer Reviews Leveraging Chain-of-Thought Reasoning*. The study investigates the use of large language models (LLMs) to evaluate peer review quality using Chain of Thought (CoT) reasoning. We categorize reviews as "good" (exhaustive) or "bad" (trivial) based on their depth in covering sections and aspects of the reviewed paper, aiming to automate the evaluation of peer review quality.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e05c7e80-494d-4943-8cc5-d189ae940ede" alt="Image 1">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cacb56be-1239-42d2-8e10-a41db854d8d3" alt="Image 2">
+</p>
+
 ## Folder Structure
 
 ```plaintext
