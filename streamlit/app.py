@@ -46,9 +46,9 @@ def main():
 
     if user_query:     
         st.write(f"Query: {user_query}")
-        
-        user_query += " Classify the following sentence as trivial or exhaustive ('Trivial' typically refers to something that is unimportant or lacking in significance, whereas 'exhaustive' implies a thorough or comprehensive treatment of a subject.) Give end result as Trivial or Exhaustive."
-        
+
+        user_query += " Classify the following review as trivial or exhaustive. Provide a detailed reasoning process, considering various sections and aspects of the review, such as coverage and depth. Explain your reasoning step by step. Here are the definitions of the terms: Exhaustive : The review provides comprehensive feedback across multiple sections and aspects of the paper, offering detailed insight into key areas such as methodology, results, experiments, and more. A review should be classified as 'Exhaustive' if it covers a wide range of sections and aspects (e.g., Abstract, Introduction, Methodology, etc.) with depth, leaving no significant sections or questions unaddressed. Trivial : The review lacks depth and does not sufficiently cover critical sections or aspects. It might focus only on one or two areas (e.g., comments on Abstract or Introduction) and fails to address significant sections or aspects in detail. A 'Trivial' review might provide shallow or vague comments that do not contribute much to improving the paper."
+
         st.write("Generating response...")
         
         response_container = st.empty()
