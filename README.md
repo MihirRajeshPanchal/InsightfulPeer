@@ -96,6 +96,21 @@ pip install -r streamlit/requirements.txt
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
+## BibTeX Entry and Citation Info ##
+
+Please cite our paper:
+
+```bibtex
+@article{bharti2026not,
+  title={Not all peer reviews are significant: a dataset of exhaustive vs. trivial scientific peer reviews leveraging chain-of-thought reasoning},
+  author={Bharti, Prabhat Kumar and Panchal, Mihir and Dalal, Viral and Agarwal, Mayank and Ekbal, Asif},
+  journal={Scientometrics},
+  pages={1--41},
+  year={2026},
+  publisher={Springer}
+}
+```
+
 ## Contact
 
 For inquiries, please reach out here:
